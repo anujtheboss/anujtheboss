@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://learn.redhat.com/t5/media/gallerypage/image-id/652i3C29451082ADC6C3"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJtbWhwejdnZHlnczl4azFmajM5Z3Roa3Y0ejE3N3hvMGY2MXRyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.webp"  />
 
 ###
 
