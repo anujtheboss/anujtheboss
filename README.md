@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://learn.redhat.com/t5/media/gallerypage/image-id/652i3C29451082ADC6C3"  />
 
 ###
 
