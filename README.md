@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWl3MHdnZTdqdG1tc3NjNWQzM2dmZG16YXZiaDliYXgzbm96ZGw4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp" alt="Snake animation" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWl3MHdnZTdqdG1tc3NjNWQzM2dmZG16YXZiaDliYXgzbm96ZGw4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp" alt="Snake animation" height="200" />
 
 ###
